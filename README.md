@@ -2,7 +2,7 @@
 <h3 align="center">I code, therefore I am... caffeinated.</h3>
 
 
-- 🌱 I’m currently learning **Typescript And GO**
+- 🌱 I’m currently learning **Elixir And Phoenix**
 
 - 📫 How to reach me **fahmimaulana1337@gmail.com**
 
